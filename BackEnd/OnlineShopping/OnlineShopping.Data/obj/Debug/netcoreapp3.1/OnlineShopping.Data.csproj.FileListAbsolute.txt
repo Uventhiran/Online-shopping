@@ -1,0 +1,6 @@
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Data.deps.json
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Data.dll
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.csprojAssemblyReference.cache
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.AssemblyInfoInputs.cache
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.AssemblyInfo.cs
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Common.dll
