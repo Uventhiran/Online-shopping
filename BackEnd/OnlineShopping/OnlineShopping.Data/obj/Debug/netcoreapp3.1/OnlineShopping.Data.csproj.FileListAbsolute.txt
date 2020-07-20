@@ -4,3 +4,8 @@ H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcorea
 H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.AssemblyInfoInputs.cache
 H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.AssemblyInfo.cs
 H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Common.dll
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Data.pdb
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\bin\Debug\netcoreapp3.1\OnlineShopping.Common.pdb
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.csproj.CopyComplete
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.dll
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Data\obj\Debug\netcoreapp3.1\OnlineShopping.Data.pdb

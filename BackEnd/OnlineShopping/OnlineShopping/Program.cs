@@ -21,6 +21,7 @@ namespace OnlineShopping
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    //.UseUrls("http://localhost:4000");
                 });
     }
 }

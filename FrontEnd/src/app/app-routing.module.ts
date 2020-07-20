@@ -6,7 +6,10 @@ import {SignComponent} from 'src/app/sign/sign.component';
 
 const routes: Routes = [
   {path:'',component:ProductsHomeComponent,pathMatch: 'full'},
-  {path:'sign', component:SignComponent}
+  {path:'sign', component:SignComponent},
+
+    // otherwise redirect to home
+    { path: '**', redirectTo: '' }
 ];
 
 @NgModule({

@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { ProductsHomeComponent } from './products-home/products-home.component';
 import { TopNavigationComponent } from './top-navigation/top-navigation.component';
 import { SignComponent } from './sign/sign.component';
-import {FormsModule} from '@angular/forms';
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 
 @NgModule({
@@ -17,7 +17,7 @@ import {HttpClientModule} from '@angular/common/http';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule,
+    ReactiveFormsModule,
     HttpClientModule
   ],
   providers: [],
