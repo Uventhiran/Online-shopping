@@ -1,0 +1,16 @@
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Common\bin\Debug\netcoreapp3.1\OnlineShopping.Common.deps.json
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Common\bin\Debug\netcoreapp3.1\OnlineShopping.Common.dll
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Common\bin\Debug\netcoreapp3.1\OnlineShopping.Common.pdb
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.csprojAssemblyReference.cache
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.AssemblyInfoInputs.cache
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.AssemblyInfo.cs
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.dll
+H:\Online-shopping\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.pdb
+H:\Online-shopping\Registration\Online-shopping\Login\BackEnd\OnlineShopping\OnlineShopping.Common\bin\Debug\netcoreapp3.1\OnlineShopping.Common.deps.json
+H:\Online-shopping\Registration\Online-shopping\Login\BackEnd\OnlineShopping\OnlineShopping.Common\bin\Debug\netcoreapp3.1\OnlineShopping.Common.dll
+H:\Online-shopping\Registration\Online-shopping\Login\BackEnd\OnlineShopping\OnlineShopping.Common\bin\Debug\netcoreapp3.1\OnlineShopping.Common.pdb
+H:\Online-shopping\Registration\Online-shopping\Login\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.csprojAssemblyReference.cache
+H:\Online-shopping\Registration\Online-shopping\Login\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.AssemblyInfoInputs.cache
+H:\Online-shopping\Registration\Online-shopping\Login\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.AssemblyInfo.cs
+H:\Online-shopping\Registration\Online-shopping\Login\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.dll
+H:\Online-shopping\Registration\Online-shopping\Login\BackEnd\OnlineShopping\OnlineShopping.Common\obj\Debug\netcoreapp3.1\OnlineShopping.Common.pdb
